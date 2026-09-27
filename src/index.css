@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .pulse-gold {
+    box-shadow: 0 0 20px rgba(234, 179, 8, 0.4);
+  }
+}
